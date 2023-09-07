@@ -77,7 +77,7 @@
     <body>
         <section class="bg_image_1">
         <div>
-            <img src="img/shop_size.PNG" id="shop_pg">
+            <img src="img/shop_size.png" id="shop_pg">
             <img src="img/phoneframe.png" alt="Phone Frame" id="phone-frame">
             <a href="item.php">
                 <button type='button' class='exit btn btn-link'></button>
