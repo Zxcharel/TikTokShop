@@ -72,7 +72,7 @@
     <body>
         <section>
         <div>
-            <img src="img/shop_item.PNG" id="shop_pg">
+            <img src="img/shop_item.png" id="shop_pg">
             <img src="img/phoneframe.png" alt="Phone Frame" id="phone-frame">
             <a href="cart.php">
                 <button type='button' class='btn btn-link'>
