@@ -54,7 +54,7 @@
     <body>
         <section class="bg_image_1">
         <div>
-            <img src="img/friend.PNG" id="shop_pg">
+            <img src="img/friend.png" id="shop_pg">
             <img src="img/phoneframe.png" alt="Phone Frame" id="phone-frame">
             <a href="friend_cart.php">
                 <button type='button' class='nxtpg btn btn-link'></button>
